@@ -1,6 +1,6 @@
 from math import *
 
-while (True)
+while (True):
     a = input("Введите выражение: ")
     if a == "q":
         break
